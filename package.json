@@ -1,0 +1,14 @@
+{
+  "name": "cms-with-express",
+  "version": "1.0.0",
+  "description": "my own platform to write, publish and save blog posts",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marty",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
